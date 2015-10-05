@@ -6,4 +6,7 @@
     <string name="title_activity_main_billing">MainBillingActivity</string>
     <string name="create">Create</string>
     <string name="pending">Pending</string>
+    <string name="pendings">Pendings</string>
+    <string name="title_activity_pendings_billing">PendingsBillingActivity</string>
+    <string name="title_activity_bill">BillActivity</string>
 </resources>

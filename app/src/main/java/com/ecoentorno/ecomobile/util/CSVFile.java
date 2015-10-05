@@ -1,5 +1,8 @@
 package com.ecoentorno.ecomobile.util;
 
+import android.content.SyncStatusObserver;
+import android.util.Log;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
